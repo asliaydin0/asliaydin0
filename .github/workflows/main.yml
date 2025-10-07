@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  
+  contents: write   # Push izni için gerekli
 
 jobs:
   build:
@@ -20,18 +20,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Generate the Snake files
-      - name: Generate snake files
+      # Generate the Snake animation
+      - name: Generate Snake files
         uses: Platane/snk@master
         with:
           github_user_name: asliaydin0
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake.gif
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Show git status (optional)
-      - name: Show status
-        run: git status
+      # Confirm the files were created
+      - name: List generated files
+        run: ls -la dist
 
       # Deploy the Snake animation to the 'output' branch
       - name: Push to output branch
