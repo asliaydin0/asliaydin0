@@ -22,6 +22,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asliaydin0&" alt="asliaydin0" /></p>
 
-<img alt="GitHub Snake" src= "https://raw.githubusercontent.com/asliaydin0/asliaydin0/output/github-snake.svg"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asliaydin0/asliaydin0/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asliaydin0/asliaydin0/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/asliaydin0/asliaydin0/output/github-snake.svg" />
+</picture>
 
 
