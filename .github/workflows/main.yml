@@ -1,40 +1,36 @@
-# 🐍 GitHub Action: Generate Snake Animation
-
 name: Generate Snake
 
 on:
   schedule:
-    # Run every 6 hours
-    - cron: "0 */6 * * *"
+    - cron: '0 */12 * * *'   # her 12 saatte bir (isteğe göre değiştir)
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
-  contents: write   # Push izni için gerekli
+  contents: write   # GITHUB_TOKEN ile çıktı branch'ine yazmak için gerekli
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-
     steps:
-      # Checkout repository content
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      # Generate the Snake animation
-      - name: Generate Snake files
-        uses: Platane/snk@master
+      - name: Generate snake (svg + gif)
+        uses: Platane/snk@v3
         with:
           github_user_name: asliaydin0
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.gif?color_snake=orange
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Confirm the files were created
-      - name: List generated files
-        run: ls -la dist
-
-      # Deploy the Snake animation to the 'output' branch
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Deploy generated files to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
