@@ -51,6 +51,12 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=asliaydin0&" alt="asliaydin0" />
 </div>
 
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Java+%26+Python+Lover;Tech+Content+Creator;Always+Learning..." alt="Typing SVG" />
+</a>
+</div>
+
 <div align="left">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asliaydin0/asliaydin0/output/github-snake-dark.svg" />
