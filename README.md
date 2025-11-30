@@ -46,6 +46,12 @@
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 </p>
 
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=asliaydin0&theme=flat&no-frame=true&margin-w=15" alt="asliaydin0" />
+  </a>
+</div>
+
 <div align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asliaydin0&show_icons=true&locale=en&layout=compact" alt="asliaydin0" />
     <img src="https://github-readme-stats.vercel.app/api?username=asliaydin0&show_icons=true&locale=en" alt="asliaydin0" />
