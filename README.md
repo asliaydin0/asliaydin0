@@ -47,9 +47,10 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=asliaydin0&theme=flat&no-frame=true&margin-w=15" alt="asliaydin0" />
-  </a>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asliaydin0&theme=dracula" alt="profile details"/>
+    <br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asliaydin0&theme=dracula" alt="most commit language"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asliaydin0&theme=dracula" alt="stats"/>
 </div>
 
 <div align="left">
