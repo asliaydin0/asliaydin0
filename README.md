@@ -63,9 +63,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=asliaydin0&" alt="asliaydin0" />
 </div>
 
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=asliaydin0&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="activity-graph" />
-</div>
+
 
 <div align="left">
     <picture>
