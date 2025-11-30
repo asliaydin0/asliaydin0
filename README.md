@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm ASLI AYDIN</h1>
-<h3 align="center">A passionate full-stack developer from Turkey</h3>
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Java+%26+Python+Lover;Tech+Content+Creator;Always+Learning..." alt="Typing SVG" />
+</a>
+</div>
 
 - 👨‍💻 All of my projects are available at [https://asliaydin.netlify.app](https://asliaydin.netlify.app)
 
@@ -51,11 +55,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=asliaydin0&" alt="asliaydin0" />
 </div>
 
-<div align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Java+%26+Python+Lover;Tech+Content+Creator;Always+Learning..." alt="Typing SVG" />
-</a>
-</div>
 
 <div align="left">
     <picture>
