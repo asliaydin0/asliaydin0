@@ -42,16 +42,16 @@
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 </p>
 
-<div align="center">
+<div align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asliaydin0&show_icons=true&locale=en&layout=compact" alt="asliaydin0" />
     <img src="https://github-readme-stats.vercel.app/api?username=asliaydin0&show_icons=true&locale=en" alt="asliaydin0" />
 </div>
 <br>
-<div align="center">
+<div align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=asliaydin0&" alt="asliaydin0" />
 </div>
 
-<div align="center">
+<div align="left">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asliaydin0/asliaydin0/output/github-snake-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asliaydin0/asliaydin0/output/github-snake.svg" />
