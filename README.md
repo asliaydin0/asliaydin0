@@ -46,6 +46,7 @@
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 </p>
 
+<h3 align="left">Profile Summary:</h3>
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asliaydin0&theme=dracula" alt="profile details"/>
     <br>
