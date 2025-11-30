@@ -47,7 +47,7 @@
 </p>
 
 <h3 align="left">Profile Summary:</h3>
-<div align="center">
+<div align="left">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asliaydin0&theme=dracula" alt="profile details"/>
     <br>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asliaydin0&theme=dracula" alt="most commit language"/>
@@ -63,6 +63,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=asliaydin0&" alt="asliaydin0" />
 </div>
 
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=asliaydin0&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="activity-graph" />
+</div>
 
 <div align="left">
     <picture>
